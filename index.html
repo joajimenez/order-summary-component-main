@@ -15,26 +15,29 @@
   <style>
     .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
-    @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
   </style>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap" rel="stylesheet">
 </head>
 <body>
-<div class="card border-pill" style="width: 18rem;">
+<div class="card" class="rounded-pill" style="width: 18rem;">
   <img src="./images/illustration-hero.svg" class="card-img-top" alt="...">
   <div class="card-body d-flex flex-column justify-content-center">
-    <h5 class="card-title d-flex justify-content-center">Order Summary</h5>
-    <p class="card-text">You can now listen to millions of songs, audiobooks, and podcasts on any 
+    <h4 class="card-title d-flex justify-content-center fw-bolder">Order Summary</h4>
+    <p class="card-text text-center text-black-50 fs-6">You can now listen to millions of songs, audiobooks, and podcasts on any 
       device anywhere you like!</p>
-      <div class="pricing d-flex bg-light border-round">
-        <img src="./images/icon-music.svg" alt="music icon">
-        <div class="inner-text">
-          <h6>Anual Plan</h6>
-          <p>$59.99/year</p>
+      <div class="pricing d-flex rounded bg-light align-items-center mb-4 justify-content-center">
+        <img src="./images/icon-music.svg" alt="music icon" class="ps-3">
+        <div class="inner-text ps-3">
+          <h6 class="fw-bold">Annual Plan</h6>
+          <p class="text-black-50 fs-6">$59.99/year</p>
         </div>
-        <a href="#">Change</a>
+        <a href="#" class="ps-4">Change</a>
       </div>
-    <a href="#" class="btn btn-primary">Proceed to payment</a>
-    <a href="#" class="btn btn-light">Cancel order</a>
+    <a href="#" class="btn btn-primary fw-bolder">Proceed to payment</a>
+    <a href="#" class="btn">Cancel order</a>
   </div>
 </div>
   
