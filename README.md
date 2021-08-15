@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/joajimenez/order-summary-component-main)
-- Live Site URL: [Add live site URL here](https://joajimenez.github.io/order-summary-component-main/)
+- Solution URL: [This repo](https://github.com/joajimenez/order-summary-component-main)
+- Live Site URL: [Live site](https://joajimenez.github.io/order-summary-component-main/)
 
 ## My process
 
