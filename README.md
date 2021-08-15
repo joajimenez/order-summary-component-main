@@ -62,5 +62,5 @@ With this project I learned a deeper understanding of Bootstrap and Node.js
 ## Author
 
 - Website - [My Porfolio](https://joan.codes)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/joajimenez)
+- Frontend Mentor - [@joajimenez](https://www.frontendmentor.io/profile/joajimenez)
 - Twitter - [@joandice](https://www.twitter.com/joandice)
